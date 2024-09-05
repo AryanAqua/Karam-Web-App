@@ -96,7 +96,7 @@ function ShowMap() {
           </Popup>
         )}
       </Map>
-      <Toaster position="top-right" />
+      <Toaster position="top-center" />
     </div>
   );
 }

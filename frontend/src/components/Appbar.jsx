@@ -11,7 +11,7 @@ export const Appbar = () => {
     };
 
     return (
-        <div className="shadow-lg h-16 flex justify-between items-center bg-[rgb(240 239 240 / 70%)]">
+        <div className="shadow-lg h-16 flex justify-between items-center bg-slate-500">
             <div className="text-green-700 font-extrabold text-2xl ml-6">
                 CleanSweep
             </div>
